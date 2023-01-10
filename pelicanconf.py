@@ -18,14 +18,14 @@ AUTHOR_FEED_RSS = None
 DATE_FORMATS = {"es": "%d-%m-%Y"}
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
+LINKS = (('Portal Firmas', 'https://funpfirmagob.pjud.cl/PFIRMAFUNWEB/jsp/Login/Login.jsp'),
+         ('Portal Personas', 'https://personas.pjud.cl/portalpersonassrh/servlet/com.portalpersonas.login'),
+         ('Mesa de Ayuda', 'http://mesaayuda.intranet.pjud/mesa_ayuda/index.php'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+"""SOCIAL = (('You can add links in your config file', '#'),
+          ('Another social link', '#'),)"""
 
 DEFAULT_PAGINATION = 10
 
