@@ -22,7 +22,8 @@ Para descargar el repositorio tenemos 2 opciones desde la propia web o via termi
 
 1. Para descargar de la web en formato .zip debe ingresar al siguiente link <https://github.com/CapjCoppo/BlogCoppo/archive/refs/heads/master.zip>
 
-2. En el caso que deba ser descargada por la terminal de linux sería `$git clone https://github.com/CapjCoppo/BlogCoppo.git`
+2. En el caso que deba ser descargada por la terminal de linux sería
+`$git clone https://github.com/CapjCoppo/BlogCoppo.git`
 
 ## Programas necesarios
 Los programas necesarios seria un editor de código como podría ser *Visual Studio Code* o similares. *Git* para el manejo de versiones y *Python* para que podamos generar todo lo necesario.
