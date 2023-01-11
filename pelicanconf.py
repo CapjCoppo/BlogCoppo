@@ -31,4 +31,8 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+#Linea en donde aloja el sitio para github saque la página
 OUTPUT_PATH = 'docs/'
+
+#Linea de donde obtiene el template base de la página
+THEME = 'themes/pelican-alchemy/alchemy'
