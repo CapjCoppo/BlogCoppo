@@ -1,0 +1,6 @@
+[submodule "pelican-alchemy"]
+	path = pelican-alchemy
+	url = git@github.com:CorpoCppo/pelican-alchemy.git
+[submodule "themes/pelican-alchemy"]
+	path = themes/pelican-alchemy
+	url = git@github.com:CorpoCppo/pelican-alchemy.git
