@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog jurisdiccional Copiapó</title><link href="https://capjcoppo.github.io/" rel="alternate"></link><link href="https://capjcoppo.github.io/feeds/all.atom.xml" rel="self"></link><id>https://capjcoppo.github.io/</id><updated>2019-05-18T11:30:00-04:00</updated><entry><title>Hola Mundo</title><link href="https://capjcoppo.github.io/hola-mundo.html" rel="alternate"></link><published>2019-05-18T10:30:00-04:00</published><updated>2019-05-18T11:30:00-04:00</updated><author><name>Rafnix Guzmán</name></author><id>tag:capjcoppo.github.io,2019-05-18:/hola-mundo.html</id><summary type="html">&lt;p&gt;Mi primer post usando Pelican y GitHub Pages&lt;/p&gt;</summary><content type="html">&lt;p&gt;Acá pueden empezar a escribir todo lo que quieran pueden agregar todas las sintaxis de &lt;em&gt;Markdown&lt;/em&gt; que deseen.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog jurisdiccional Copiapó</title><link href="https://capjcoppo.github.io/" rel="alternate"></link><link href="https://capjcoppo.github.io/feeds/all.atom.xml" rel="self"></link><id>https://capjcoppo.github.io/</id><updated>2023-01-21T23:01:00-03:00</updated><entry><title>Segundo post de prueba</title><link href="https://capjcoppo.github.io/segundo-post-de-prueba.html" rel="alternate"></link><published>2023-01-21T23:01:00-03:00</published><updated>2023-01-21T23:01:00-03:00</updated><author><name>Carlos Carrasco</name></author><id>tag:capjcoppo.github.io,2023-01-21:/segundo-post-de-prueba.html</id><summary type="html">&lt;p&gt;Este es el segundo post que realizo para probar que todo funciona como debe.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Segundo post de prueba&lt;/h1&gt;
+&lt;p&gt;La verdad es que este es un segundo post de prueba&lt;/p&gt;
+&lt;h2&gt;Probando emojis&lt;/h2&gt;
+&lt;p&gt;:tulip: este es un emoji de tulipan
+:cherry_blossom: flor de sakura&lt;/p&gt;
+&lt;h2&gt;prueba dea emojis&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;:warning: &lt;strong&gt;Warning:&lt;/strong&gt; Do not push the big red button.&lt;/p&gt;
+&lt;p&gt;:memo: &lt;strong&gt;Note:&lt;/strong&gt; Sunrises are beautiful.&lt;/p&gt;
+&lt;p&gt;:bulb: &lt;strong&gt;Tip:&lt;/strong&gt; Remember to appreciate the little things in life.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Palabras de cierre&lt;/h2&gt;
+&lt;p&gt;bueno primero que nada agradecer esta posibilidad y que todo salga la raja&lt;/p&gt;</content><category term="blogTags: principal, otros"></category><category term="prueba"></category><category term="linux"></category><category term="git"></category><category term="md"></category></entry><entry><title>Hola Mundo</title><link href="https://capjcoppo.github.io/hola-mundo.html" rel="alternate"></link><published>2019-05-18T10:30:00-04:00</published><updated>2019-05-18T11:30:00-04:00</updated><author><name>Rafnix Guzmán</name></author><id>tag:capjcoppo.github.io,2019-05-18:/hola-mundo.html</id><summary type="html">&lt;p&gt;Mi primer post usando Pelican y GitHub Pages&lt;/p&gt;</summary><content type="html">&lt;p&gt;Acá pueden empezar a escribir todo lo que quieran pueden agregar todas las sintaxis de &lt;em&gt;Markdown&lt;/em&gt; que deseen.&lt;/p&gt;
 &lt;h2&gt;Título&lt;/h2&gt;
 &lt;h3&gt;Subtítulo&lt;/h3&gt;
 &lt;p&gt;Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
