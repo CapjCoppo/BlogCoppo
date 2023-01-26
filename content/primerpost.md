@@ -2,7 +2,7 @@ Title: Hola Mundo
 Date: 2019-05-18 10:30
 Modified: 2019-05-18 11:30
 Category: blogTags: principal, otros
-Slug: hola-mundo
+Slug: primer-post
 Authors: Rafnix Guzmán
 Summary: Mi primer post usando Pelican y GitHub Pages
 
