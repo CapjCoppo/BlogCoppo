@@ -6,21 +6,18 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>  Hola Mundo | Blog jurisdiccional Copiapó
+  <title>  Segundo Post | Blog jurisdiccional Copiapó
 </title>
-  <link rel="canonical" href="./hola-mundo.html">
+  <link rel="canonical" href="/hola-mundo.html">
 
 
-  <link rel="stylesheet" href="./theme/css/bootstrap.min.css">
-  <link rel="stylesheet" href="./theme/css/fontawesome.min.css">
-  <link rel="stylesheet" href="./theme/css/pygments/default.min.css">
-  <link rel="stylesheet" href="./theme/css/theme.css">
+  <link rel="stylesheet" href="/theme/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/theme/css/fontawesome.min.css">
+  <link rel="stylesheet" href="/theme/css/pygments/default.min.css">
+  <link rel="stylesheet" href="/theme/css/theme.css">
 
-  <link rel="alternate" type="application/atom+xml" title="Full Atom Feed"
-        href="https://capjcoppo.github.io/feeds/all.atom.xml">
-  <link rel="alternate" type="application/atom+xml" title="Categories Atom Feed"
-        href="https://capjcoppo.github.io/feeds/blogtags-principal-otros.atom.xml">  
-  <meta name="description" content="Mi primer post usando Pelican y GitHub Pages">
+  
+  <meta name="description" content="en esta se ve como crear una página">
 
 
 </head>
@@ -30,7 +27,7 @@
     <div class="container">
 <div class="row">
   <div class="col-sm-12">
-    <h1 class="title"><a href="./">Blog jurisdiccional Copiapó</a></h1>
+    <h1 class="title"><a href="/">Blog jurisdiccional Copiapó</a></h1>
       <ul class="list-inline">
           <li class="list-inline-item"><a href="https://funpfirmagob.pjud.cl/PFIRMAFUNWEB/jsp/Login/Login.jsp" target="_blank">Portal Firmas</a></li>
           <li class="list-inline-item"><a href="https://personas.pjud.cl/portalpersonassrh/servlet/com.portalpersonas.login" target="_blank">Portal Personas</a></li>
@@ -42,39 +39,45 @@
 
   <div class="main">
     <div class="container">
-      <h1>  Hola Mundo
+      <h1>  Segundo Post
 </h1>
       <hr>
   <article class="article">
     <header>
       <ul class="list-inline">
-        <li class="list-inline-item text-muted" title="2019-05-18T10:30:00-04:00">
+        <li class="list-inline-item text-muted" title="2023-01-26T15:32:00-03:00">
           <i class="fas fa-clock"></i>
-          18-05-2019
+          26-01-2023
         </li>
         <li class="list-inline-item">
           <i class="fas fa-folder-open"></i>
-          <a href="./category/blogtags-principal-otros.html">blogTags: principal, otros</a>
+          <a href="/category/principal-otros.html">principal, otros</a>
         </li>
           <li class="list-inline-item">
             <i class="fas fa-user"></i>
-              <a href="./author/rafnix-guzman.html">Rafnix Guzmán</a>          </li>
+              <a href="/author/rafnix-guzman.html">Rafnix Guzmán</a>          </li>
+          <li class="list-inline-item">
+            <i class="fas fa-tag"></i>
+              <a href="/tag/informatica.html">#Informatica</a>,               <a href="/tag/linux.html">#Linux</a>,               <a href="/tag/pruebas.html">#Pruebas</a>          </li>
       </ul>
     </header>
     <div class="content">
-      <p>Acá pueden empezar a escribir todo lo que quieran pueden agregar todas las sintaxis de <em>Markdown</em> que deseen.</p>
-<h2>Título</h2>
-<h3>Subtítulo</h3>
-<p>Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
-- Elemento 1
-- Elemento 2
-- Elemento 3</p>
-<p>Este es un ejemplo de texto que da entrada a una lista numerada:
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3</p>
-<p>Al texto en Markdown puedes añadirle formato como <strong>negrita</strong> o <em>cursiva</em> de una manera muy sencilla.
-Todo esto fue extraído de este <a href="https://markdown.es/sintaxis-markdown/">Post sobre markdown</a></p>
+      <h1>Como agregar contenido al repositorio</h1>
+<ol>
+<li>Crear una carpeta en documentos</li>
+<li>Abrir Carpeta con <strong>Visual Studio Code</strong> o editor favorito</li>
+<li>Abrir terminal y escribir lo siguiente <code>git clone --recurse-submodules git@github.com:CapjCoppo/BlogCoppo.git</code></li>
+<li>Esto nos solicitará nuestras llaves SSH que ya deberíamos tener agregadas en nuestra cuenta github</li>
+<li>Esperar que el proceso de descarga finalice y podemos agregar el nuevo artículo</li>
+</ol>
+<h1>Generar la página</h1>
+<div class="highlight"><pre><span></span><code>make clean
+make html
+make publish
+</code></pre></div>
+
+<h1>agreando una foto</h1>
+<p><img alt="Carlos" src="images/Pic-1.jpeg"></p>
     </div>
   </article>
     </div>
@@ -84,9 +87,10 @@ Todo esto fue extraído de este <a href="https://markdown.es/sintaxis-markdown/"
     <div class="container">
 <div class="row">
   <ul class="col-sm-6 list-inline">
-      <li class="list-inline-item"><a href="./authors.html">Autores</a></li>
-    <li class="list-inline-item"><a href="./archives.html">Archivos</a></li>
-    <li class="list-inline-item"><a href="./categories.html">Categorías</a></li>
+      <li class="list-inline-item"><a href="/authors.html">Autores</a></li>
+    <li class="list-inline-item"><a href="/archives.html">Archivos</a></li>
+    <li class="list-inline-item"><a href="/categories.html">Categorías</a></li>
+      <li class="list-inline-item"><a href="/tags.html">Tags</a></li>
   </ul>
   <p class="col-sm-6 text-sm-right text-muted">
     Generado por <a href="https://github.com/getpelican/pelican" target="_blank">Pelican</a>
