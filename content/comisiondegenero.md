@@ -1,10 +1,10 @@
-Title: MINISTRA ANDREA MUÑOZ SOBRE SEMINARIO IBEROAMERICANO DE JUZGAR CON PERSPECTIVA DE GÉNERO: “SERÁ UN ESPACIO PARA IR CERRANDO BRECHAS DE ACCESO A LA JUSTICIA”
+Title: Ministra Andrea Muñoz sobre seminario Iberoamericano de juzgar con perspectiva de género: "Será un espacio para ir cerrando brechas de acceso a la justicia"
 Date: 2023-05-15 10:00
 Category: Genero
 Authors: Poder Judicial
-Summary: 
+Summary: La Comisión Permanente de Género y Acceso a la Justicia de la Cumbre Judicial Iberoamericana – en conjunto con la Corte Suprema de Justicia de Chile
 
-# MINISTRA ANDREA MUÑOZ SOBRE SEMINARIO IBEROAMERICANO DE JUZGAR CON PERSPECTIVA DE GÉNERO: “SERÁ UN ESPACIO PARA IR CERRANDO BRECHAS DE ACCESO A LA JUSTICIA”
+# Ministra Andrea Muñoz sobre seminario Iberoamericano de juzgar con perspectiva de género: "Será un espacio para ir cerrando brechas de acceso a la justicia"
 
 La Comisión Permanente de Género y Acceso a la Justicia de la Cumbre Judicial Iberoamericana – en conjunto con la Corte Suprema de Justicia de Chile – realizarán el seminario internacional “Los desafíos para incorporar la perspectiva de género para la administración de justicia de Iberoamérica”, que se desarrollará los días 17 y 18 de mayo de 2023, en la ciudad de Santiago.
 

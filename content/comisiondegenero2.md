@@ -1,10 +1,10 @@
-Title: MINISTRA ANDREA MUÑOZ DA CUENTA DEL TRABAJO DE LA COMISIÓN DE GÉNERO EN II REUNIÓN PREPARATORIA DE LA XXI EDICIÓN DE LA CUMBRE JUDICIAL IBEROAMERICANA
+Title: Ministra Andrea Muñoz da cuenta del trabajo de la comisión de género en II Reunión preparatoria de la XXI Edición de la cumbre Judicial Iberoamericana
 Date: 2023-07-04 10:00
 Category: Genero
 Authors: Poder Judicial
-Summary: 
+Summary: La ministra de la Corte Suprema y presidenta de la Comisión Permanente de Género y Acceso a la Justicia (CPGyAJ), Andrea Muñoz, presentó los avances...
 
-# MINISTRA ANDREA MUÑOZ DA CUENTA DEL TRABAJO DE LA COMISIÓN DE GÉNERO EN II REUNIÓN PREPARATORIA DE LA XXI EDICIÓN DE LA CUMBRE JUDICIAL IBEROAMERICANA
+# Ministra Andrea Muñoz da cuenta del trabajo de la comisión de género en II Reunión preparatoria de la XXI Edición de la cumbre Judicial Iberoamericana
 La ministra de la Corte Suprema y presidenta de la Comisión Permanente de Género y Acceso a la Justicia (CPGyAJ), Andrea Muñoz, presentó los avances del plan de trabajo del grupo que lidera y  cuyo compromiso  es afianzar la incorporación de la perspectiva de género en el quehacer judicial de los poderes judiciales que integran la Cumbre Judicial Iberoamericana (CIJ) para garantizar la igualdad y no discriminación.
 
 En la Segunda Reunión Preparatoria de la XXI edición de la CIJ, realizada en Bolivia, la ministra Muñoz señaló que la comisión cumplió con las metas propuestas en torno a los ejes de continuidad y fortalecimiento, difusión de los productos y vinculación, “donde nos planteamos cuatro objetivos que fueron desarrollados a través de trece proyectos con excelentes resultados”.

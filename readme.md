@@ -14,7 +14,7 @@ Esto sería lo esencial, sin embargo existe el archivo ***requeriments.txt*** en
 
 > Una forma de instalar todas las dependencias sería con el siguiente commando 
 >~~~
->$ pip install -r requirements.txt
+>$ pip3 install -r requirements.txt
 >~~~
 
 ## Descarga de repositorio
