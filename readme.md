@@ -14,7 +14,7 @@ Esto sería lo esencial, sin embargo existe el archivo ***requeriments.txt*** en
 
 > Una forma de instalar todas las dependencias sería con el siguiente commando 
 >~~~
->$ pip install -r requirements.txt
+>$ pip3 install -r requirements.txt
 >~~~
 
 ## Descarga de repositorio
@@ -54,16 +54,14 @@ $ make github
 $ make devserver
 ~~~
 
-Si queremos comprobar que todo esta en orden sería necesario un cuarto comando que sería:
-~~~
-$ make devserver
-~~~
+Si queremos comprobar que todo esta en orden este último comando `$ make devserver` producirá un servidor local viendo todos los cambios que hemos realizado.
+
 Ejecutando este código en la terminal estaríamos en condiciones de pushear la página a nuestra rama **master**.
 ~~~
-$git status
-$git add .
-$git status
-$git commit -m ":memo: Se actualiza blog"
-$git push -u origin master 
+$ git status
+$ git add .
+$ git status
+$ git commit -m ":memo: Se actualiza blog"
+$ git push -u origin master 
 ~~~
 > Recuerde que debe tener habilitada su llave SSH para hacerlo de esta manera. En caso que no tenga llave con **Github Desktop** también se produce el mismo resultado.
