@@ -2,7 +2,7 @@ Title: Bienvenido al Blog de la Zonal Copiapó
 Date: 2023-01-08 10:30
 Category: Informática
 Slug: bienvenida-blog
-Authors: Zonal Copiapó
+Authors: Corporación Administrativa
 Summary: Con este primer post se da la bienvenida al blog de la zonal de Copiapó
 
 # Bienvenido(a) al Blog
