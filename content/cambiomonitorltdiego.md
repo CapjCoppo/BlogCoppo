@@ -1,14 +1,13 @@
 Title: Reparación CCTV en Tribunal de Letras de Diego de Almagro
 Date: 2024-10-09 10:30
-Category: informática
+Category: Informática
 Slug: cctv-diego-de-almagro
 Authors: Corporación Administrativa
 Summary: El pasado **9 de octubre de 2024**, un equipo de informáticos de la zonal Copiapó se trasladó hasta el **Tribunal de Letras de Diego de Almagro** con el objetivo de realizar labores de mantenimiento y reparación.
 
-# Reparación del CCTV en el Tribunal de Letras de Diego de Almagro
-
 El pasado **9 de octubre de 2024**, un equipo de informáticos de la zonal Copiapó se trasladó hasta el **Tribunal de Letras de Diego de Almagro** con el objetivo de realizar labores de mantenimiento y reparación. Uno de los principales trabajos realizados fue la reparación de la **televisión del sistema de circuito cerrado de televisión (CCTV)**, que se encontraba quemada y fuera de servicio.
-![Carlos](images/Pic-5.jpeg)
+
+![Foto-cctv](images/Pic-3.jpeg)
 
 Durante la jornada, los profesionales también atendieron otros requerimientos de los funcionarios del tribunal, brindando soporte técnico y asegurando el correcto funcionamiento de los equipos tecnológicos.
 
