@@ -1,3 +1,3 @@
 [submodule "themes/pelican-alchemy"]
 	path = themes/pelican-alchemy
-	url = git@github.com:CapjCoppo/pelican-alchemy.git
+	url = https://github.com/CapjCoppo/pelican-alchemy.git
