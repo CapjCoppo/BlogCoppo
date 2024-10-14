@@ -29,7 +29,7 @@ LINKS = (('Portal Firmas', 'https://funpfirmagob.pjud.cl/PFIRMAFUNWEB/jsp/Login/
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 #Linea en donde aloja el sitio para github saque la página
 OUTPUT_PATH = 'docs/'
