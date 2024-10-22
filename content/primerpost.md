@@ -18,9 +18,9 @@ A continuación pasaremos a describir las secciones una a una.
 En esta sección se han agregado links que pueden ser del interes de los usuarios que visitan esta página.
 Como lo son el caso de:
 
-1. Portal firma
-2. Portal Persona
-3. Mesa de ayuda
+1. [Portal firma](https://funpfirmagob.pjud.cl/PFIRMAFUNWEB/jsp/Login/Login.jsp)
+2. [Portal Persona](https://personas.pjud.cl/portalpersonassrh/servlet/com.portalpersonas.login)
+3. [Mesa de ayuda](http://mesaayuda.intranet.pjud/mesa_ayuda/index.php)
 
 ## Últimos artículos
 Como lo dice el titulo, acá se muestran los últimos 10 artículos ordenados desde el más actual que se encuentra en la parte superior, hasta el menos reciente que se encuentra al final de la página web.
