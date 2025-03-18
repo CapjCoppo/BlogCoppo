@@ -20,9 +20,9 @@ Esto sería lo esencial, sin embargo existe el archivo ***requeriments.txt*** en
 ## También es necesario installar Pelican
 
 Para instalar hay que ejecutar el siguiente comando en la terminal
-
-`python -m pip install "pelican[markdown]"`
-
+~~~
+python -m pip install "pelican[markdown]"
+~~~
 ## Descarga de repositorio
 Para descargar el repositorio lo haremos via terminal.
 
