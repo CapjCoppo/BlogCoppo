@@ -5,8 +5,6 @@ Slug: remplazo-cctv-ica-coppo
 Authors: Corporación Administrativa
 Summary: En un esfuerzo por garantizar el óptimo funcionamiento de los sistemas de comunicación y reforzar los estándares de seguridad tecnológica, un equipo de informáticos de la Corporación Administrativa del Poder Judicial ...
 
-# Renovación Tecnológica en la Ilustrísima Corte de Apelaciones de Copiapó  
-
 **Copiapó, 19 de febrero de 2025** – En un esfuerzo por garantizar el óptimo funcionamiento de los sistemas de comunicación y reforzar los estándares de seguridad tecnológica, un equipo de informáticos de la Corporación Administrativa del Poder Judicial concurrió hoy a la Ilustrísima Corte de Apelaciones de Copiapó para llevar a cabo el reemplazo de un televisor institucional, el cual presentaba fallas tras años de operación.  
 
 El cambio del equipo responde a la necesidad de mantener las condiciones técnicas adecuadas para la visualización de información relevante en la Corte, asegurando así la continuidad operativa de los servicios y el cumplimiento de los parámetros de seguridad exigidos por la Ilustrísima Corte de Apelaciones.  
@@ -17,4 +15,4 @@ El equipo técnico realizó la instalación y configuración del nuevo dispositi
 
 Este tipo de intervenciones técnicas son fundamentales para el desarrollo de las labores jurisdiccionales y administrativas, garantizando que la tecnología utilizada en las dependencias judiciales se mantenga en condiciones óptimas y en cumplimiento con los estándares de seguridad y operatividad requeridos.  
 
-![cctv-operativo](images/Pic-6.jpeg)
+![cctv-operativo-ica-coppo](images/Pic-6.jpeg)
