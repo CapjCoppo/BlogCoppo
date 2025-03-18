@@ -17,13 +17,20 @@ Esto sería lo esencial, sin embargo existe el archivo ***requeriments.txt*** en
 >$ pip3 install -r requirements.txt
 >~~~
 
+## También es necesario installar Pelican
+
+Para instalar hay que ejecutar el siguiente comando en la terminal
+
+`python -m pip install "pelican[markdown]"`
+
 ## Descarga de repositorio
-Para descargar el repositorio tenemos 2 opciones desde la propia web o via terminal.
+Para descargar el repositorio lo haremos via terminal.
 
-1. Para descargar de la web en formato .zip debe ingresar al siguiente link <https://github.com/CapjCoppo/BlogCoppo/archive/refs/heads/master.zip>
-
-2. En el caso que deba ser descargada por la terminal de linux sería
+1. En el caso que deba ser descargada por la terminal de linux sería
 `$git clone https://github.com/CapjCoppo/BlogCoppo.git`
+
+2. Descargar el submodulo que el tema
+`git submodule update --init --recursive`
 
 ## Programas necesarios
 Los programas necesarios seria un editor de código como podría ser *Visual Studio Code* o similares. *Git* para el manejo de versiones y *Python* para que podamos generar todo lo necesario.
@@ -50,11 +57,10 @@ Para generar el sitio web estático es necesario correr los siguientes comando e
 ~~~
 $ make clean
 $ make html
-$ make github
-$ make devserver
+$ pelican -r -l
 ~~~
 
-Si queremos comprobar que todo esta en orden este último comando `$ make devserver` producirá un servidor local viendo todos los cambios que hemos realizado.
+Si queremos comprobar que todo esta en orden este último comando `$ pelican -r -l` producirá un servidor local viendo todos los cambios que hemos realizado.
 
 Ejecutando este código en la terminal estaríamos en condiciones de pushear la página a nuestra rama **master**.
 ~~~
