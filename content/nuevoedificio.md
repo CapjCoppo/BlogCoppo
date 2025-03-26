@@ -5,8 +5,6 @@ Slug: nuevo-edificio-caldera
 Authors: Corporación Administrativa
 Summary: En una jornada destinada a potenciar la calidad de vida de los funcionarios y mejorar la atención a los usuarios, el administrador zonal de Copiapó acompañó este lunes a un grupo de profesionales provenientes de Santiago ...
 
-# Administrador Zonal de Copiapó y Profesionales de Santiago se reúnen por nuevo Edificio en Caldera
-
 **Caldera, 24 de marzo de 2025** – En una jornada destinada a potenciar la calidad de vida de los funcionarios y mejorar la atención a los usuarios, el administrador zonal de Copiapó acompañó este lunes a un grupo de profesionales provenientes de Santiago a la localidad de Caldera. La visita se centró en identificar las necesidades y proyectar el nuevo edificio que se erigirá con estándares de arquitectura moderna.
 
 El proyecto contempla la construcción de un inmueble destinado a albergar materias judiciales de **Letras, Garantía y Familia**, lo que promete transformar el entorno laboral y ofrecer espacios adecuados tanto para el personal como para la atención de la ciudadanía. Los profesionales realizaron un levantamiento de información en el sector, clave para definir los requerimientos técnicos y funcionales del futuro edificio.
