@@ -1,6 +1,6 @@
 Title: Funcionarios judiciales se capacitan en instalación de software ZkTime
 Date: 2025-06-19
-Category: Zonal
+Category: Informática, Capacitación
 Slug: capacitacion-zktime-junio-2025
 Author: Corporación Administrativa
 Summary: Funcionarios de la jurisdicción participaron en una capacitación telemática sobre la instalación y uso del software ZkTime, orientada a optimizar la gestión de datos de reloj control.
