@@ -20,7 +20,8 @@ DATE_FORMATS = {"es": "%d-%m-%Y"}
 # Blogroll
 LINKS = (('Portal Firmas', 'https://funpfirmagob.pjud.cl/PFIRMAFUNWEB/jsp/Login/Login.jsp'),
          ('Portal Personas', 'https://personas.pjud.cl/portalpersonassrh/servlet/com.portalpersonas.login'),
-         ('Mesa de Ayuda', 'http://mesaayuda.intranet.pjud/mesa_ayuda/index.php'),)
+         ('Mesa de Ayuda', 'http://mesaayuda.intranet.pjud/mesa_ayuda/index.php'),
+          'Horarios', 'pages/Horarios.md')
 
 # Social widget
 """SOCIAL = (('You can add links in your config file', '#'),
