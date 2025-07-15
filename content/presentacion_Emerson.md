@@ -1,11 +1,11 @@
 Title: Bienvenido Emerson: Nuevo Administrativo Informático en la Jurisdicción
-Date: 2025-07-17 08:00
+Date: 2025-07-15 08:00
 Category: Informática
 Slug: presentacion-emerson-administrativo-informatico
 Authors: Corporación Administrativa
 Summary: Emerson se incorpora al equipo como nuevo Administrativo Informático. En esta publicación conoceremos más sobre él, su experiencia y motivaciones.
 
-**Copiapó, 17 de julio de 2025** – Tenemos el agrado de dar la más cordial bienvenida a **Emerson Paredes**, quien se suma al equipo de la corporación en el cargo de **Administrativo Informático**. Su incorporación representa un importante refuerzo para el área técnica y operativa del Poder Judicial en la región.
+**Copiapó, 15 de julio de 2025** – Tenemos el agrado de dar la más cordial bienvenida a **Emerson Paredes**, quien se suma al equipo de la corporación en el cargo de **Administrativo Informático**. Su incorporación representa un importante refuerzo para el área técnica y operativa del Poder Judicial en la región.
 
 Queremos compartir una breve presentación para conocer un poco más sobre él. 
 
