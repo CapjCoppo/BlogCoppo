@@ -36,8 +36,8 @@ Bienvenidos al horario actualizado del equipo de **Informática** y las **Monito
   </tr>
   <tr>
     <td class="tg-zv4m">08:00 a 17:00</td>
-    <td class="tg-zv4m">Próximamente</td>
-    <td class="tg-zv4m" style="color:#B03A2E"><strong>Próximamente</strong></td>
+    <td class="tg-zv4m">14:00 a 15:00</td>
+    <td class="tg-zv4m" style="color:#B03A2E"><strong>Emerson Paredes</strong></td>
   </tr>
 </tbody>
 </table>
