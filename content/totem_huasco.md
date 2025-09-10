@@ -3,7 +3,7 @@ Date: 2025-08-28 09:00
 Category: Zonal, Informática
 Slug: totem-autoatencion-huasco
 Authors: Corporación Administrativa
-Summary: La Municipalidad de Huasco, en conjunto con la Corporación Administrativa del Poder Judicial, habilitó un tótem de autoatención que permite a los vecinos acceder a plataformas digitales de justicia.
+Summary: La Municipalidad de Huasco, en conjunto con la Corporación Administrativa del Poder Judicial, habilitó un tótem de autoatención que permite a los vecinos acceder a plataformas tales como conecta y oficina judicial virtual.
 
 **Huasco, 28 de agosto de 2025** – Con el propósito de **acercar la justicia a la comunidad**, la **Municipalidad de Huasco**, en conjunto con la **Corporación Administrativa del Poder Judicial**, puso a disposición de la ciudadanía un **tótem de autoatención** en dependencias municipales.
 
